@@ -1,0 +1,1 @@
+# Fullstack-Application-with-AWS-Amplify-Gen-2
